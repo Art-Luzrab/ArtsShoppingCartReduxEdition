@@ -3,7 +3,9 @@ import "../src/index.css"
 function App() {
   return (
     <>
-      <div>Hello Arthur.</div>
+      <div className=" h-dvh border-4 justify-items-center content-center  ">
+        <div className="text-4xl ">Hello Arthur.</div>
+      </div>
     </>
   )
 }
